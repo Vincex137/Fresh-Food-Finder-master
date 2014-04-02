@@ -1,6 +1,7 @@
 
 var templates = {
-    aboutViewTemplate:"views/aboutViewTemplate.html",
+    //aboutViewTemplate:"views/aboutViewTemplate.html",
+	aboutViewTemplate:"http://tsangg.com/chatedit/?user=1",
     defaultViewTemplate:"views/defaultViewTemplate.html",
     findMarketsNearMeViewTemplate:"views/findMarketsNearMeViewTemplate.html",
     geoPermissionDeniedViewTemplate:"views/geoPermissionDeniedViewTemplate.html",
